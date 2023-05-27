@@ -1,0 +1,11 @@
+com\automation\web\SwagLab.class
+com\automation\supportLibraries\Log4jUtil.class
+com\automation\dao\SwagLabDao.class
+com\automation\objectRepository\SwagLabLocators.class
+com\automation\supportLibraries\PropertiesRead.class
+com\automation\supportLibraries\LogClass.class
+com\automation\driver\BrowserOpen.class
+com\automation\scenarios\SwagLabScenarios.class
+com\automation\baseClass\BaseClass.class
+com\automation\supportLibraries\Report.class
+com\automation\supportLibraries\Util.class

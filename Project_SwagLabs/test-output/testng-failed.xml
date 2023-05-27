@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SwagLabsWeb]">
+  <test name="SwagLabsTest(failed)">
+    <classes>
+      <class name="com.automation.web.SwagLab">
+        <methods>
+          <include name="quitReport"/>
+          <include name="initializeWebdriver"/>
+          <include name="SwagLabDemo"/>
+        </methods>
+      </class> <!-- com.automation.web.SwagLab -->
+    </classes>
+  </test> <!-- SwagLabsTest(failed) -->
+</suite> <!-- Failed suite [SwagLabsWeb] -->

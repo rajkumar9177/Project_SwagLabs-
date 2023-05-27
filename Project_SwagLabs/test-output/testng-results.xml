@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SwagLabsWeb" duration-ms="75871" started-at="2023-05-27T09:09:30Z" finished-at="2023-05-27T09:10:46Z">
+    <groups>
+    </groups>
+    <test name="SwagLabsTest" duration-ms="75871" started-at="2023-05-27T09:09:30Z" finished-at="2023-05-27T09:10:46Z">
+      <class name="com.automation.web.SwagLab">
+        <test-method status="PASS" signature="initializeWebdriver(java.lang.String, org.testng.ITestContext)[pri:0, instance:com.automation.web.SwagLab@971d0d8]" name="initializeWebdriver" is-config="true" duration-ms="4872" started-at="2023-05-27T14:39:25Z" finished-at="2023-05-27T14:39:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@4da9f723]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeWebdriver -->
+        <test-method status="PASS" signature="SwagLabDemo()[pri:0, instance:com.automation.web.SwagLab@971d0d8]" name="SwagLabDemo" duration-ms="75084" started-at="2023-05-27T14:39:30Z" finished-at="2023-05-27T14:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SwagLabDemo -->
+        <test-method status="PASS" signature="quitReport(org.testng.ITestContext)[pri:0, instance:com.automation.web.SwagLab@971d0d8]" name="quitReport" is-config="true" duration-ms="763" started-at="2023-05-27T14:40:45Z" finished-at="2023-05-27T14:40:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4da9f723]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitReport -->
+      </class> <!-- com.automation.web.SwagLab -->
+    </test> <!-- SwagLabsTest -->
+  </suite> <!-- SwagLabsWeb -->
+</testng-results>

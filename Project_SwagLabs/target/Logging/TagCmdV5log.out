@@ -1,0 +1,26 @@
+2023-05-27 14:39:13 INFO  [main] baseClass.BaseClass (SwagLabScenarios.java:14)  - Scenario: SwagLabDemo_2023.05.27.14.39.13
+2023-05-27 14:39:13 INFO  [main] supportLibraries.LogClass (LogClass.java:9)  - ****************************************************************************************
+2023-05-27 14:39:13 INFO  [main] supportLibraries.LogClass (LogClass.java:10)  - $$$$$$$$$$$$$$ SwagLabDemo $$$$$$$$$$$$$$$
+2023-05-27 14:39:13 INFO  [main] supportLibraries.LogClass (LogClass.java:11)  - ****************************************************************************************
+2023-05-27 14:39:30 INFO  [main] baseClass.BaseClass (SwagLabScenarios.java:14)  - Scenario: SwagLabDemo_2023.05.27.14.39.30
+2023-05-27 14:39:30 INFO  [main] supportLibraries.LogClass (LogClass.java:9)  - ****************************************************************************************
+2023-05-27 14:39:30 INFO  [main] supportLibraries.LogClass (LogClass.java:10)  - $$$$$$$$$$$$$$ SwagLabDemo $$$$$$$$$$$$$$$
+2023-05-27 14:39:30 INFO  [main] supportLibraries.LogClass (LogClass.java:11)  - ****************************************************************************************
+2023-05-27 14:39:31 INFO  [main] baseClass.BaseClass ( Util.java:112)  - Element found: [[ChromeDriver: chrome on WINDOWS (306afd2e0f8ab2553eb14f8873466df9)] -> xpath: //input[@id='user-name']]
+2023-05-27 14:39:32 INFO  [main] baseClass.BaseClass ( Util.java:40)  - Text entered in the textbox is: standard_user
+2023-05-27 14:39:34 INFO  [main] baseClass.BaseClass ( Util.java:63)  - Text entered in the textbox is: ************
+2023-05-27 14:39:42 INFO  [main] baseClass.BaseClass ( Util.java:90)  - Clicked on the element using Javascript: Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='login-button']'
+2023-05-27 14:39:43 INFO  [main] baseClass.BaseClass ( Util.java:112)  - Element found: [[ChromeDriver: chrome on WINDOWS (306afd2e0f8ab2553eb14f8873466df9)] -> xpath: //button[@id='add-to-cart-sauce-labs-bike-light']]
+2023-05-27 14:39:51 INFO  [main] baseClass.BaseClass ( Util.java:90)  - Clicked on the element using Javascript: Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='add-to-cart-sauce-labs-bike-light']'
+2023-05-27 14:39:54 INFO  [main] baseClass.BaseClass ( Util.java:90)  - Clicked on the element using Javascript: [[ChromeDriver: chrome on WINDOWS (306afd2e0f8ab2553eb14f8873466df9)] -> xpath: //div[@class='shopping_cart_container']]
+2023-05-27 14:40:02 INFO  [main] baseClass.BaseClass ( Util.java:90)  - Clicked on the element using Javascript: Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='checkout']'
+2023-05-27 14:40:04 INFO  [main] baseClass.BaseClass ( Util.java:112)  - Element found: [[ChromeDriver: chrome on WINDOWS (306afd2e0f8ab2553eb14f8873466df9)] -> xpath: //input[@id='first-name']]
+2023-05-27 14:40:05 INFO  [main] baseClass.BaseClass ( Util.java:40)  - Text entered in the textbox is: Rajkumar
+2023-05-27 14:40:07 INFO  [main] baseClass.BaseClass ( Util.java:40)  - Text entered in the textbox is: Medishetti
+2023-05-27 14:40:08 INFO  [main] baseClass.BaseClass ( Util.java:40)  - Text entered in the textbox is: 506343
+2023-05-27 14:40:09 INFO  [main] baseClass.BaseClass ( Util.java:112)  - Element found: [[ChromeDriver: chrome on WINDOWS (306afd2e0f8ab2553eb14f8873466df9)] -> xpath: //input[@id='continue']]
+2023-05-27 14:40:15 INFO  [main] baseClass.BaseClass ( Util.java:90)  - Clicked on the element using Javascript: Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='continue']'
+2023-05-27 14:40:24 INFO  [main] baseClass.BaseClass ( Util.java:90)  - Clicked on the element using Javascript: Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='finish']'
+2023-05-27 14:40:32 INFO  [main] baseClass.BaseClass ( Util.java:90)  - Clicked on the element using Javascript: Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='back-to-products']'
+2023-05-27 14:40:34 INFO  [main] baseClass.BaseClass ( Util.java:90)  - Clicked on the element using Javascript: [[ChromeDriver: chrome on WINDOWS (306afd2e0f8ab2553eb14f8873466df9)] -> xpath: //button[@ID='react-burger-menu-btn']]
+2023-05-27 14:40:43 INFO  [main] baseClass.BaseClass ( Util.java:90)  - Clicked on the element using Javascript: Proxy element for: DefaultElementLocator 'By.xpath: //a[@id='logout_sidebar_link']'
